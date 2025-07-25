@@ -19,10 +19,10 @@ This PowerShell script uses the Microsoft Graph SDK with application permissions
   ```powershell
   Install-Module Microsoft.Graph -Scope CurrentUser
   ```
-- An Azure AD App Registration with the correct permissions
-  ---
+- An Azure AD App Registration
+---
 
-  ## Azure App Registration Setup
+## Azure App Registration Setup
 
 1. Register a New App
 - Go to Azure Portal – App registrations
@@ -87,4 +87,4 @@ This PowerShell script uses the Microsoft Graph SDK with application permissions
 - ConversationId
 - MessageId
 - WebLink
-
+---
