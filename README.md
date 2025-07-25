@@ -2,7 +2,7 @@
  This PowerShell script uses the Microsoft Graph SDK with application permissions to retrieve messages from a user's mailbox within a specified date range and export them to a CSV file, including key information like IsRead status
 ---
 
-## 🚀 Features
+## Features
 
 - Authenticates using Azure AD App Registration (client credentials flow)
 - Retrieves messages using Microsoft Graph API
@@ -11,7 +11,7 @@
 - Includes fields like subject, sender, recipients, read status, and more
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 - PowerShell 7+
 - Microsoft Graph PowerShell SDK installed:
